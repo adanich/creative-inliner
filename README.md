@@ -1,5 +1,7 @@
 # Creative Inliner
 
+This is basically a wrapper for https://github.com/remy/inliner
+
 ## Requirements
 
 - Node (`brew install node`)
